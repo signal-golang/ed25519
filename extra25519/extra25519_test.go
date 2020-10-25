@@ -9,7 +9,7 @@ import (
 	"crypto/rand"
 	"testing"
 
-	"github.com/pieterbork/ed25519"
+	"github.com/golang-signal/ed25519"
 	"golang.org/x/crypto/curve25519"
 )
 
