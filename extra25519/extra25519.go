@@ -7,7 +7,7 @@ package extra25519
 import (
 	"crypto/sha512"
 
-	"github.com/pieterbork/ed25519/edwards25519"
+	"github.com/golang-signal/ed25519/edwards25519"
 )
 
 // PrivateKeyToCurve25519 converts an ed25519 private key into a corresponding

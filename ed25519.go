@@ -14,7 +14,7 @@ import (
 	"crypto/subtle"
 	"io"
 
-	"github.com/pieterbork/ed25519/edwards25519"
+	"github.com/signal-golang/ed25519/edwards25519"
 )
 
 const (
